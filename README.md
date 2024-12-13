@@ -11,6 +11,7 @@ The Swin-B model used in this project has the following characteristics:
 
 ## Dataset: CheXpert v1.0
 This project utilizes the **CheXpert v1.0** dataset, a large public chest radiograph dataset for medical imaging research and development.
+The Dataset can be found here: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
 
 ### Key Details
 - **Size**: 224,316 chest radiographs from 65,240 patients
